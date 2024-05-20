@@ -1,10 +1,10 @@
-#MindGame
-##Личный кабинет
+# MindGame
+## Личный кабинет
 ![website](./account.png)
-##Теория
+## Теория
 ![website](./theory.png)
 ![website](./theory_info.png)
-##Карта уровней
+## Карта уровней
 ![website](./map.png)
-##Уровень
+## Уровень
 ![website](./level.png)
